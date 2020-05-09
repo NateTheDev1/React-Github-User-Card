@@ -1,0 +1,22 @@
+.app-bar {
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8a63d2 !important;
+  color: black !important;
+}
+
+.user-grid {
+  /* display: flex;
+  justify-content: space-around; */
+}
+
+.friends-grid {
+  width: 75%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.user-card {
+}
