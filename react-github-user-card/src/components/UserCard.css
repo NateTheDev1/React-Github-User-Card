@@ -1,0 +1,19 @@
+.card {
+  margin: 0 auto;
+  margin-top: 3%;
+
+  width: 75%;
+}
+
+.card-center {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+.card-content {
+  width: 75% !important;
+}
+
+.card-media {
+  max-width: 30%;
+}
